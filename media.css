@@ -1,0 +1,20 @@
+@media screen and (max-width: 767px){
+    .slider-image-one-text{
+        position: absolute !important;
+        left: 18% !important;
+        top: 20% !important;
+    }
+    .slider-image-one-text span{
+        font-size: 15px !important;
+    }
+    .slider-image-one-text h1{
+        font-size: 45px !important;
+        line-height: 48px !important;
+    }
+    .banner-text{
+        margin-top: 70px !important;
+    }
+    .team-image-box{
+        bottom: -1550px !important;
+    }
+}
